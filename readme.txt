@@ -1,9 +1,9 @@
-=== PressLabs Site Protection ===
-Contributors: PressLabs
+=== Site Protection ===
+Contributors: Presslabs
 Donate link: http://www.presslabs.com/
 Tags: template, presslabs-site-protection, presslabs, login, 403, protect, site-protection, avoid indexing, search, google, engine
 Requires at least: 3.5.1
-Tested up to: 3.5
+Tested up to: 4.1.2
 Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -25,7 +25,7 @@ After you activate this plugin the site will return a 403 Forbidden HTTP status 
 
 = Usage =
 Use your plugin from the `Plugins` page.
-Activate/Deactivate `PressLabs Site Protection` plugin from the list.
+Activate/Deactivate `Site Protection` plugin from the list.
 
 == Frequently Asked Questions ==
 
