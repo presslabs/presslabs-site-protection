@@ -36,6 +36,7 @@ If you don't want to allow access to the site without being logged-in.
 
 = 1.1 =
 * Format the code.
+* Rename the plugin to `Site protection`.
 * Add romanian translation.
 
 = 1.0 =
