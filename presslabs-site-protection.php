@@ -14,12 +14,12 @@ function presslabs_site_protection_walled_garden() {
 		header( 'HTTP/1.1 403 Forbidden' );
 		?><html>
 		<head>
-			<title>Login protection</title>
+			<title><?php _e( 'Login protection', 'presslabs-site-protection' ); ?></title>
 			<meta http-equiv="refresh" content="2; URL=/wp-login.php">
 			<meta name="keywords" content="automatic redirection">
 			<?php wp_head(); ?>
 		</head>
-		<body><?php echo __( "If your browser doesn't automatically go there within a few seconds, you may want to click", 'presslabs-site-protection' ) . ' <a href="/wp-login.php">' . __( 'to login', 'presslabs-site-protection' ) . '</a> ' . __( 'manually.', 'presslabs-site-protection' ); wp_footer();	?></body>
+		<body><?php echo __( "If your browser doesn't automatically go there within a few seconds, you may want to click <a href='/wp-login.php'>to login</a> manually", 'presslabs-site-protection' ) . '.'; wp_footer(); ?></body>
 		</html><?php
 		exit;
 	}

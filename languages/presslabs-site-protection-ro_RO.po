@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Presslabs-site-protection\n"
-"POT-Creation-Date: 2015-04-20 17:40+0200\n"
-"PO-Revision-Date: 2015-04-20 17:42+0200\n"
+"POT-Creation-Date: 2015-11-26 15:20+0200\n"
+"PO-Revision-Date: 2015-11-26 15:24+0200\n"
 "Last-Translator: \n"
 "Language-Team: Presslabs <support@presslabs.com>\n"
 "Language: English\n"
@@ -14,18 +14,14 @@ msgstr ""
 "X-Poedit-Basepath: ../\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: presslabs-site-protection.php:25
+#: presslabs-site-protection.php:17
+msgid "Login protection"
+msgstr "Protectie la autentificare"
+
+#: presslabs-site-protection.php:22
 msgid ""
 "If your browser doesn't automatically go there within a few seconds, you may "
-"want to click"
+"want to click <a href='/wp-login.php'>to login</a> manually"
 msgstr ""
 "Dacă browser-ul tău nu te duce în mod automat acolo în câteva secunde, poți "
-"da click "
-
-#: presslabs-site-protection.php:25
-msgid "to login"
-msgstr "pentru a te autentifica"
-
-#: presslabs-site-protection.php:25
-msgid "manually."
-msgstr "manual."
+"da click  <a href='/wp-login.php'>pentru a te autentifica</a> manual"
