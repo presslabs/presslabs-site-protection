@@ -1,10 +1,10 @@
 === Site Protection ===
 Contributors: Presslabs
 Donate link: http://www.presslabs.com/
-Tags: template, presslabs-site-protection, presslabs, login, 403, protect, site-protection, avoid indexing, search, google, engine
+Tags: template, site protection, presslabs, login, 403, protect, site-protection, avoid indexing, search, google, engine
 Requires at least: 3.5.1
-Tested up to: 4.1.2
-Stable tag: 1.2
+Tested up to: 4.4
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,6 +33,10 @@ Activate/Deactivate `Site Protection` plugin from the list.
 If you don't want to allow access to the site without being logged-in.
 
 == Changelog ==
+
+= 1.1 =
+* Format the code.
+* Add romanian translation.
 
 = 1.0 =
 * start version on WP.
