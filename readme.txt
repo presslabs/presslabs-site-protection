@@ -3,8 +3,7 @@ Contributors: Presslabs
 Donate link: http://www.presslabs.com/
 Tags: template, site protection, presslabs, login, 403, protect, site-protection, avoid indexing, search, google, engine
 Requires at least: 3.5.1
-Tested up to: 4.5
-Stable tag: 1.1
+Tested up to: 4.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
