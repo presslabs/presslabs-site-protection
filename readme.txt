@@ -1,5 +1,5 @@
 === Site Protection ===
-Contributors: Presslabs
+Contributors: PressLabs
 Donate link: http://www.presslabs.com/
 Tags: template, site protection, presslabs, login, 403, protect, site-protection, avoid indexing, search, google, engine
 Requires at least: 3.5.1
