@@ -3,7 +3,7 @@
  * Plugin Name: Site Protection
  * Plugin URI: http://wordpress.org/extend/plugins/presslabs-site-protection/
  * Description: Site protection plugin for dev instances to avoid indexing by search engines. Doesn't allow access to the site without being logged-in.
- * Version: 1.0
+ * Version: 1.2
  * Author: Presslabs
  * Author URI: http://www.presslabs.com/
  */
