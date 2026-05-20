@@ -3,7 +3,7 @@ Contributors: PressLabs
 Donate link: http://www.presslabs.com/
 Tags: template, site protection, presslabs, login, avoid indexing
 Requires at least: 4.7
-Tested up to: 6.9
+Tested up to: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,9 @@ Activate/Deactivate `Site Protection` plugin from the list.
 If you don't want to allow access to the site without being logged-in.
 
 == Changelog ==
+
+= 1.4 =
+* Tested up to WP 7.0.
 
 = 1.3 =
 * Tested up to WP 6.9.
